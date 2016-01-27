@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure_camp_dev_01", "azure_camp_dev_01\azure_camp_dev_01.csproj", "{1441A21D-5BFE-4CB0-B984-5D03E18AF3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queue_porcess", "queue_porcess\queue_porcess.csproj", "{DBEAB1F0-59BA-4D56-AE3B-A8B90409F95A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "table_process", "table_process\table_process.csproj", "{7BABE83E-93FF-4386-A8AD-8B3E6CDF9369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1441A21D-5BFE-4CB0-B984-5D03E18AF3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1441A21D-5BFE-4CB0-B984-5D03E18AF3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1441A21D-5BFE-4CB0-B984-5D03E18AF3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1441A21D-5BFE-4CB0-B984-5D03E18AF3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEAB1F0-59BA-4D56-AE3B-A8B90409F95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEAB1F0-59BA-4D56-AE3B-A8B90409F95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEAB1F0-59BA-4D56-AE3B-A8B90409F95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEAB1F0-59BA-4D56-AE3B-A8B90409F95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BABE83E-93FF-4386-A8AD-8B3E6CDF9369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BABE83E-93FF-4386-A8AD-8B3E6CDF9369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BABE83E-93FF-4386-A8AD-8B3E6CDF9369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BABE83E-93FF-4386-A8AD-8B3E6CDF9369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
